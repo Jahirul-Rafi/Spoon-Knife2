@@ -10,7 +10,3 @@ For some more information on how to fork a repository, [check out our guide, "Fo
 
 # I was here(rafi)
 
-Rafi
-Here
-Here
-jasdkn
